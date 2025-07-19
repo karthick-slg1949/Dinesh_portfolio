@@ -64,7 +64,7 @@ const Contact = () => {
             </div>
             <div className="flex items-center gap-4">
               <FiPhone className="text-2xl text-cyan-500" />
-              <span className="text-base dark:text-slate-300">+91 9876543210</span>
+              <span className="text-base dark:text-slate-300">+91 9345336511</span>
             </div>
             <div className="flex items-center gap-4">
               <FiMapPin className="text-2xl text-cyan-500" />
@@ -73,13 +73,13 @@ const Contact = () => {
 
             {/* Social Links */}
             <div className="flex items-center gap-4 mt-6">
-              <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer" className="text-cyan-600 hover:text-cyan-400 text-2xl">
+              <a href="https://www.linkedin.com/in/karthick-alagar-1647672a2/" target="_blank" rel="noreferrer" className="text-cyan-600 hover:text-cyan-400 text-2xl">
                 <FaLinkedin />
               </a>
-              <a href="https://github.com/your-profile" target="_blank" rel="noreferrer" className="text-cyan-600 hover:text-cyan-400 text-2xl">
+              <a href="https://github.com/karthick-slg1949" target="_blank" rel="noreferrer" className="text-cyan-600 hover:text-cyan-400 text-2xl">
                 <FaGithub />
               </a>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noreferrer" className="text-green-600 hover:text-green-400 text-2xl">
+              <a href="https://wa.me/9345336511 " target="_blank" rel="noreferrer" className="text-green-600 hover:text-green-400 text-2xl">
                 <FaWhatsapp />
               </a>
               <a href="mailto:karthickalagar8@gmail.com" className="text-red-600 hover:text-red-400 text-2xl">
