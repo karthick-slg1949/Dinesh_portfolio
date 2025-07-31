@@ -26,13 +26,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <p>
-            Hello! I'm <span className="text-cyan-600 dark:text-cyan-400 font-semibold">Dinesh Alagar</span>, a passionate front-end developer with hands-on experience in React.js and responsive web design.
-          </p>
-          <p>
-            I love crafting visually appealing and user-friendly web applications. From building weather apps to interactive dashboards, I enjoy turning ideas into real-world web experiences.
-          </p>
-          <p>
-            I’m always eager to learn and grow — whether it's exploring new frameworks or contributing to creative projects that solve problems.
+            Hello! I'm <span className="text-cyan-600 dark:text-cyan-400 font-semibold">Dinesh Alagar</span>, a passionate front-end developer. I love crafting visually appealing and user-friendly web applications.            I’m always eager to learn and grow — whether it's exploring new frameworks or contributing to creative projects that solve problems.
           </p>
         </motion.div>
       </div>

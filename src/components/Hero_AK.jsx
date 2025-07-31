@@ -18,7 +18,7 @@ const Hero = () => {
           Hi, I'm Dinesh Alagar
         </h1>
         <p className="text-lg text-gray-700 dark:text-slate-300 leading-relaxed">
-          A passionate Full Stack Developer skilled in React, Node.js, MongoDB, and Python. I build clean, functional, and beautiful web apps.
+          I am 2nd year Bachelor Student in Information Technology at Arumugam Pillai Seethai Ammal College Thiruppathur.
         </p>
 
         <motion.div

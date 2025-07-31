@@ -28,7 +28,7 @@ const Contact = () => {
     setStatusColor('blue');
 
     try {
-      await axios.post('https://formspree.io/f/mrblezoz', formData, {
+      await axios.post('https://formspree.io/f/mjkoopyl', formData, {
         headers: {
           Accept: 'application/json'
         }
@@ -64,7 +64,7 @@ const Contact = () => {
             </div>
             <div className="flex items-center gap-4">
               <FiPhone className="text-2xl text-cyan-500" />
-              <span className="text-base dark:text-slate-300">+91 9345336511</span>
+              <span className="text-base dark:text-slate-300">+91 8270637880</span>
             </div>
             <div className="flex items-center gap-4">
               <FiMapPin className="text-2xl text-cyan-500" />
@@ -79,10 +79,10 @@ const Contact = () => {
               <a href="https://github.com/karthick-slg1949" target="_blank" rel="noreferrer" className="text-cyan-600 hover:text-cyan-400 text-2xl">
                 <FaGithub />
               </a>
-              <a href="https://wa.me/9345336511 " target="_blank" rel="noreferrer" className="text-green-600 hover:text-green-400 text-2xl">
+              <a href="https://wa.me/8270637880 " target="_blank" rel="noreferrer" className="text-green-600 hover:text-green-400 text-2xl">
                 <FaWhatsapp />
               </a>
-              <a href="mailto:karthickalagar8@gmail.com" className="text-red-600 hover:text-red-400 text-2xl">
+              <a href="mailto:dhineshalagar910@gmail.com" className="text-red-600 hover:text-red-400 text-2xl">
                 <MdEmail />
               </a>
             </div>
